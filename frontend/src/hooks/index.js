@@ -1,0 +1,1 @@
+export {useWindowResizeController} from './useWindowResizeController';
